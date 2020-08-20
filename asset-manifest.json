@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/assignment-credit-suisse/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github.io/assignment-credit-suisse/static/js/main.d35e91c6.chunk.js",
+    "main.js.map": "/github.io/assignment-credit-suisse/static/js/main.d35e91c6.chunk.js.map",
+    "runtime-main.js": "/github.io/assignment-credit-suisse/static/js/runtime-main.1f5c004f.js",
+    "runtime-main.js.map": "/github.io/assignment-credit-suisse/static/js/runtime-main.1f5c004f.js.map",
+    "static/js/2.ce159d2d.chunk.js": "/github.io/assignment-credit-suisse/static/js/2.ce159d2d.chunk.js",
+    "static/js/2.ce159d2d.chunk.js.map": "/github.io/assignment-credit-suisse/static/js/2.ce159d2d.chunk.js.map",
+    "index.html": "/github.io/assignment-credit-suisse/index.html",
+    "precache-manifest.2c3874094175d2d3a78158b0f8391081.js": "/github.io/assignment-credit-suisse/precache-manifest.2c3874094175d2d3a78158b0f8391081.js",
+    "service-worker.js": "/github.io/assignment-credit-suisse/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github.io/assignment-credit-suisse/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ce159d2d.chunk.js.LICENSE.txt": "/github.io/assignment-credit-suisse/static/js/2.ce159d2d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/assignment-credit-suisse/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5c004f.js",
+    "static/js/2.ce159d2d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d35e91c6.chunk.js"
+  ]
+}
